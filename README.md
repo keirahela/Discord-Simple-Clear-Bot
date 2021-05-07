@@ -5,7 +5,7 @@ Simple Clear bot written in Javascript.
 
 If you have any problems, dm ```keirahela#4288``` on discord.
 
-## YOU CANNOT DELETE MESSAGES THAT ARE OLDER THAN 14 DAYS
+## YOU CANNOT DELETE MESSAGES THAT ARE OLDER THAN 14 DAYS [discord]
 
 
 # Features:
@@ -32,3 +32,4 @@ If you have any problems, dm ```keirahela#4288``` on discord.
 
 [Clone this repo]: https://github.com/keirahela/Discord-Simple-Clear-Bot/archive/refs/heads/main.zip
 [install node]: https://nodejs.org/en/
+[discord]: https://discord.com/developers/docs/resources/channel

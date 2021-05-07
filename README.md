@@ -32,4 +32,4 @@ If you have any problems, dm ```keirahela#4288``` on discord.
 
 [Clone this repo]: https://github.com/keirahela/Discord-Simple-Clear-Bot/archive/refs/heads/main.zip
 [install node]: https://nodejs.org/en/
-[discord]: https://discord.com/developers/docs/resources/channel
+[discord]: https://imgur.com/a/PKrB2UM

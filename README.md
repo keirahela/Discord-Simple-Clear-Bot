@@ -3,7 +3,7 @@
 Simple Clear bot written in Javascript.
 
 
-If you have any problems, dm ```keirahela#4288``` on discord.
+If you have any problems, dm ```keirahela#0001``` on discord.
 
 ## YOU CANNOT DELETE MESSAGES THAT ARE OLDER THAN 14 DAYS [discord]
 
